@@ -14,4 +14,6 @@ You can run the app with:
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
-|New text line to trigger jenkins build.
+New text line to trigger jenkins build.
+
+Another line to trigger jenkins build.
